@@ -54,6 +54,32 @@ export const projects: Project[] = [
     image: "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
     github: "https://github.com/danu2003-cy/Zero-Hunger-Awareness-Web-Page",
     
+  },
+  {
+    "id": 7,
+    "title": "Stock Price Prediction Project",
+    "description": "Developed a machine learning model to predict stock prices 5 days into the future using real-time and historical market data. Utilized technologies such as Apache Kafka, Spark, LightGBM, and FastAPI. Implemented a data-driven approach with feature engineering, model evaluation, and a live analytics dashboard using Streamlit. Achieved 73.1% directional accuracy and integrated monitoring with Prometheus and Grafana to ensure system reliability.",
+    "technologies": ["Python", "Apache Kafka", "Apache Spark", "LightGBM", "FastAPI", "Streamlit", "Prometheus", "Grafana"],
+    "image": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+    "github": "https://github.com/danu2003-cy/Stock-Price-Prediction-Project"
+},
+  {
+    id: 8,
+    title: "World Hunger Awareness Website",
+    description: "Developed a responsive web page on World Hunger as the group coursework for the HTML web development module. The site raises awareness about global hunger issues and provides resources for getting involved.",
+    technologies: ["HTML", "CSS", "Bootstrap"],
+    image: "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+    github: "https://github.com/danu2003-cy/Zero-Hunger-Awareness-Web-Page",
+    
+  },
+  {
+    id: 9,
+    title: "World Hunger Awareness Website",
+    description: "Developed a responsive web page on World Hunger as the group coursework for the HTML web development module. The site raises awareness about global hunger issues and provides resources for getting involved.",
+    technologies: ["HTML", "CSS", "Bootstrap"],
+    image: "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+    github: "https://github.com/danu2003-cy/Zero-Hunger-Awareness-Web-Page",
+    
   }
 ];
 
