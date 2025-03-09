@@ -111,7 +111,7 @@ export const skills: Skill[] = [
   },
   {
     category: "Backend",
-    items: ["Spring Boot", "Java", "Python", "Flask", "RESTful APIs", "Multi-threading","C"]
+    items: ["Spring Boot", "Java", "Python", "Flask", "FastAPI", "RESTful APIs", "Multi-threading","C"]
   },
   {
     category: "Databases",
@@ -126,7 +126,7 @@ export const skills: Skill[] = [
 export const aboutMe = {
   name: "Dhanushi Arachchi",
   title: "Full Stack Engineer",
-  bio: "Enthusiastic Computer Science undergraduate with a focus on full-stack development and hands-on experience in building responsive web applications. Skilled in React, Spring Boot, and SQL, with a passion for creating seamless user experiences and efficient back-end solutions. I bring strong problem-solving skills, a collaborative mindset, and a dedication to continuous learning, seeking to contribute as a Full Stack Developer.",
+  bio: "Enthusiastic Computer Science undergraduate with a focus on full-stack development and hands-on experience in building responsive web applications. Skilled in React, Spring Boot, SQL, and machine learning, with experience in model training and data-driven solutions. Passionate about creating seamless user experiences, efficient back-end systems, and leveraging AI to enhance applications. I bring strong problem-solving skills, a collaborative mindset, and a dedication to continuous learning, seeking to contribute as a Full Stack Developer.",
   education: [
     {
       institution: "University of Westminster",
@@ -150,14 +150,15 @@ export const aboutMe = {
     "Member of IEEE at IIT, participating in various tech-driven initiatives"
   ],
   interests: [
-    "Exploring the potential of AI to optimize workflows and enhance efficiency",
-    "Integrating IoT and machine learning for innovative software solutions",
+    "Exploring the potential of AI to optimize workflows, enhance efficiency, and develop advanced machine learning models.",
+    "Integrating IoT, machine learning, and large language models (LLMs) to create innovative software solutions.",
     "Traveling extensively through Western Europe and India",
     "Karate - Black belt holder with a passion for the discipline"
   ],
   certifications: [
     "Beginner for Web Design - University of Moratuwa (Open Learning)",
     "Object Oriented Design - LinkedIn Learning",
+    "Angular developers Training - LinkedIn Learning",
     "SQL Basic Queries - Online Certification"
   ],
   languages: [
